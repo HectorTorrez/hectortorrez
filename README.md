@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate frontend developer from El Salvador<br><br>🌱 I’m currently learning React, Typescript and Node<br><br>👨‍💻 All of my projects are available at https://hectortorrez.netlify.app/<br><br>📫 How to reach me torrezhectorb@gmail.com<br><br>📄 Know about my experiences https://hectortorrez.netlify.app/<br><br>⚡ Fun fact I think I am a passionate person about learning and making ideas into websites
+A passionate frontend developer from El Salvador<br><br>🌱 I’m currently learning React, Typescript, and Node<br><br>👨‍💻 All of my projects are available at https://hectortorrez.netlify.app/<br><br>📫 How to reach me torrezhectorb@gmail.com<br><br>📄 Know about my experiences https://hectortorrez.netlify.app/<br><br>⚡ Fun fact I think I am a passionate person about learning and making ideas into websites
 
 
 ## 🌐 Socials:
@@ -12,7 +12,6 @@ A passionate frontend developer from El Salvador<br><br>🌱 I’m currently lea
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HectorTorrez&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HectorTorrez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
