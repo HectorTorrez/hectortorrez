@@ -6,9 +6,17 @@ A passionate frontend developer from El Salvador<br><br>🌱 I’m currently lea
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hector-torrez/) 
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  
+![React](https://skillicons.dev/icons?i=react)
+![Typescript](https://skillicons.dev/icons?i=ts)
+![Next.JS](https://skillicons.dev/icons?i=nextjs)
+![Javascript](https://skillicons.dev/icons?i=js)
+![Styled Components](https://skillicons.dev/icons?i=styledcomponents)
+![Node.JS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HectorTorrez&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HectorTorrez&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HectorTorrez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
