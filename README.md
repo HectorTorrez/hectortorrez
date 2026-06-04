@@ -28,4 +28,4 @@ I work across frontend and backend, focusing on building fast, scalable, and cle
 [Portfolio](https://hectortorrez.com) ·
 [LinkedIn](https://www.linkedin.com/in/hector-torrez/) ·
 [Email](mailto:torrezhectorb@gmail.com) ·
-[cursor](https://cursor.com/@hectortorrez00)
+[Cursor](https://cursor.com/@hectortorrez00)
